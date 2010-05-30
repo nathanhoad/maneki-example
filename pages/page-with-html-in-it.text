@@ -1,0 +1,18 @@
+# Page with HTML in it
+
+This page has HTML in it. Markdown lets you use straight HTML in documents.
+
+<table>
+  <tr>
+    <th>Thing</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>Apple</td>
+    <td>$1</td>
+  </tr>
+  <tr>
+    <td>Orange</td>
+    <td>$1.20</td>
+  </tr>
+</table>
